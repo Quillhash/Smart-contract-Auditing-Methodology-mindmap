@@ -3,6 +3,7 @@
 ![Untitled](data/Auditing-methodology-quillaudits.png)
 
 PDF Version: [Auditing-Methodology-Mindmap](data/Auditing-methodology-quillaudits.pdf)
+
 Mindmap Link: [https://xmind.works/share/LoZXVn0y](https://xmind.works/share/LoZXVn0y)
 
 
