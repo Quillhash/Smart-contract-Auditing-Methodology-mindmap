@@ -42,7 +42,8 @@ Mindmap Link: [https://xmind.works/share/LoZXVn0y](https://xmind.works/share/LoZ
 3. Writing POCs for the manual findings:
     1. [Hardhat](https://hardhat.org/hardhat-runner/docs/getting-started#overview)
     2. [Foundry](https://github.com/foundry-rs/foundry)
-    3. [Brownie](https://eth-brownie.readthedocs.io/en/stable/)
+    3. [Brownie](https://eth-brownie.readthedocs.io/en/stable/) (Deprecating soon)
+    4. [Ape](https://docs.apeworx.io/ape/stable/index.html)
     4. [Truffle](https://trufflesuite.com/)
 4. [Remix Deployment [Optional]](https://remix.ethereum.org/)
 5. Gas Optimizations Test Reports
